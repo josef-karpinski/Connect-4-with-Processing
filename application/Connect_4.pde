@@ -17,9 +17,6 @@ public void draw(){
   theGrid.drawGrid();
   theGrid.checkEndGame();
   endGame();
-  System.out.println(mouseX);
-  
-    
 }
 
 public void mousePressed(){
